@@ -32,6 +32,7 @@ public class Lecture {
 			list.add(str.substring(0, 2));
 			splitstr(list, str.substring(2));
 		}
+
 		return list;
 	}
 }
